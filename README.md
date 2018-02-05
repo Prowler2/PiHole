@@ -11,6 +11,6 @@ Domain WhiteList - <a href="https://github.com/anudeepND/whitelist">LINK</a></p>
 PiHole Advanced Collection - <a href="https://github.com/deathbybandaid/piadvanced">LINK</a><p>
 Dark Admin DashBoard - <a href="https://discourse.pi-hole.net/t/dark-admin-dashboard/2569">LINK</a><p>
 <h2>Pi-Hole BlockLists</h2>
-<ul> <li>Nulla facilisi.</li> <li>Pellentesque habitant morbi</li> <li>Quisque vel justo.</li> <li>Nullam posuere purus sed arcu.</li></ul>
+
 
 
