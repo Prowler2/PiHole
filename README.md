@@ -1,4 +1,4 @@
-<h2>Pi-Hole Mods</h2>
+<h2>Pi-Hole Mods and Tweaks</h2>
 <p>SpeedTest on Pi-Hole Dashboard - <a href="https://blog.arevindh.com/2017/07/13/add-speedtest-to-pihole-webui/">LINK</a></p>
 <img src="https://github.com/Prowler2/PiHole/blob/master/Images/speedtest.PNG" alt="Speedtest" />
 <p>Midnight Dashboard - <a href="https://github.com/jacobbates/pi-hole-midnight">LINK</a></p>
