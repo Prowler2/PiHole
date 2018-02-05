@@ -12,6 +12,7 @@ PiHole Commonly Whitelisted Domains - <a href="https://discourse.pi-hole.net/t/c
 Domain WhiteList - <a href="https://github.com/anudeepND/whitelist">LINK</a></p>
 PiHole Advanced Collection - <a href="https://github.com/deathbybandaid/piadvanced">LINK</a><p>
 
+
 <h2>Pi-Hole BlockLists</h2>
 
 
