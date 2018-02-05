@@ -1,6 +1,6 @@
 <h2>Pi-Hole Mods</h2>
 <p>SpeedTest on Pi-Hole Dashboard - <a href="https://blog.arevindh.com/2017/07/13/add-speedtest-to-pihole-webui/">LINK</a></p>
-<img src="https://github.com/Prowler2/PiHole/blob/master/images/speedtest.PNG" alt="Speedtest" />
+<img src="https://github.com/Prowler2/PiHole/blob/master/Images/speedtest.PNG" alt="Speedtest" />
 <p>Midnight Dashboard - <a href="https://github.com/jacobbates/pi-hole-midnight">LINK</a></p>
 <img src="https://github.com/Prowler2/PiHole/blob/master/images/midnight.PNG" alt="Speedtest" />
 <p>Why Some Pages Load Slow When Using Pi-hole And How To Fix It - <a href="https://pi-hole.net/2018/02/02/why-some-pages-load-slow-when-using-pi-hole-and-how-to-fix-it/">LINK</a>
