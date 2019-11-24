@@ -31,3 +31,7 @@ steamstore-a.akamaihd.net
 steamcdn-a.akamaihd.net
 steamusercontent-a.akamaihd.net
 steam-chat.com
+#
+# TikTok
+tiktok.com
+tiktokcdn.com
