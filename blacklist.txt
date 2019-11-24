@@ -1,0 +1,7 @@
+api.cylance.com
+cblack03z.sncorp.com
+cdn.discordapp.com
+data.cylance.com
+hgtps01.sncorp.intranet.com
+log-ingestion.samsungacr.com
+web66.sncorp.com
