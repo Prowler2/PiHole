@@ -8,6 +8,7 @@ storetail.io
 dnsdelegation.io
 sc.omtrdc.net
 tagcommander.com
+#
 tiger-algebra.com
 www.tiger-algebra.com
 youtube.com
@@ -18,3 +19,15 @@ data.cylance.com
 hgtps01.sncorp.intranet.com
 log-ingestion.samsungacr.com
 web66.sncorp.com
+#
+# Steam
+poweredbysteam.net
+steampowered.com
+steamcommunity.com
+steamgames.com
+steamgames.net
+steamstatic.com
+steamstore-a.akamaihd.net
+steamcdn-a.akamaihd.net
+steamusercontent-a.akamaihd.net
+steam-chat.com
