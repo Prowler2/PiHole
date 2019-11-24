@@ -1,4 +1,9 @@
 # BlackList
+#
+# Ubiquiti Telemetry
+trace.svc.ui.com
+ping.ui.com
+#
 # CNAME Cloaking
 eulerian.net
 at-o.net
