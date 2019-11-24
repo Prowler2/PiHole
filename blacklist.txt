@@ -35,3 +35,10 @@ steam-chat.com
 # TikTok
 tiktok.com
 tiktokcdn.com
+#
+# 9GAG
+9gag.com
+9cache.com
+#
+# Fortnite
+epicgames.com
