@@ -1,4 +1,6 @@
 # BlackList
+tiger-algebra.com
+www.tiger-algebra.com
 youtube.com
 api.cylance.com
 cblack03z.sncorp.com
