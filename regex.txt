@@ -1,1 +1,39 @@
 # Regex
+# Game Trackers
+(^|\.)buffpanel\.com$
+(^|\.)bugsnag\.com$
+(^|\.)redshell\.io$
+(^|\.)treasuredata\.com$
+(^|\.)unity(|3d)\.com$
+(^|\.)unityads(|\.co)\.com$
+# Ads
+^https?:\/\/([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?secure\.footprint\.net\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?match\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?clicks\.beap\.bc\.yahoo(\.\w{2}\.\w{2}|\.\w{2 ,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?sitescout(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?appnexus(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?evidon(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?mediamath(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?scorecardresearch(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?flashtalking(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?turn(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?mathtag(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?googlesyndication(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?s\.yimg\.com/cv/ae/us/audience\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?clicks\.beap\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?.doubleclick(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?yieldmanager(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?w55c(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?adnxs(\.\w{2}\.\w{2}|\.\w{2,4})\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?advertising\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?evidon\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?scorecardresearch\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?flashtalking\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?turn\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?mathtag\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?surveylink\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?info\.yahoo\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?ads\.yahoo\.com\/
+^https?:\/\/([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com\/
