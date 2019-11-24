@@ -37,3 +37,5 @@
 ^https?:\/\/([A-Za-z0-9.-]*\.)?info\.yahoo\.com\/
 ^https?:\/\/([A-Za-z0-9.-]*\.)?ads\.yahoo\.com\/
 ^https?:\/\/([A-Za-z0-9.-]*\.)?global\.ard\.yahoo\.com\/
+# Roku Telemetry
+^([a-z0-9]+[.])*(ads|captive|cloudservices|logs)\.roku\.com
