@@ -9,16 +9,22 @@ dnsdelegation.io
 sc.omtrdc.net
 tagcommander.com
 #
+# Math
 tiger-algebra.com
 www.tiger-algebra.com
+#
+# Youtube
 youtube.com
+#
+# SNC
 api.cylance.com
 cblack03z.sncorp.com
-cdn.discordapp.com
 data.cylance.com
 hgtps01.sncorp.intranet.com
-log-ingestion.samsungacr.com
 web66.sncorp.com
+#
+# Samsung TV
+log-ingestion.samsungacr.com
 #
 # Steam
 poweredbysteam.net
@@ -42,3 +48,48 @@ tiktokcdn.com
 #
 # Fortnite
 epicgames.com
+#
+# Youtube
+youtube.be
+youtube.com
+youtube.co.uk
+youtube.de
+youtube.fr
+youtube.nl
+youtube.pl
+youtube.googleapis.com
+youtube-nocookie.com
+youtubeeducation.com
+youtubegaming.com
+youtubei.googleapis.com
+youtu.be
+yt3.ggpht.com
+ytimg.com
+googlevideo.com
+#
+# NetFlix
+netflix.com
+nflximg.net
+nflxext.com
+nflxvideo.net
+nflxso.net
+#
+# Hulu
+hulu.com
+#
+# Discord
+discordapp.com
+discord.gg
+cdn.discordapp.com
+#
+# twitch.tv
+ttvnw.net
+twitchcdn.net
+jtvnw.net
+#
+# SnapChat
+snapchat.com
+#
+# WhatsApp
+whatsapp.net
+whatsapp.com
