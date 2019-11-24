@@ -1,3 +1,4 @@
+# BlackList
 api.cylance.com
 cblack03z.sncorp.com
 cdn.discordapp.com
