@@ -1,1 +1,8 @@
 # WhiteList
+#
+# YoutubeTV
+accounts.youtube.com
+tv.youtube.com
+yt3.ggpht.com
+#
+#
