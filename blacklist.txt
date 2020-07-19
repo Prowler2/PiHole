@@ -14,24 +14,13 @@ dnsdelegation.io
 sc.omtrdc.net
 tagcommander.com
 #
-# Math
-tiger-algebra.com
-www.tiger-algebra.com
-#
-# Youtube
-youtube.com
-#
-# SNC
-api.cylance.com
-cblack03z.sncorp.com
-data.cylance.com
 hgtps01.sncorp.intranet.com
 web66.sncorp.com
 #
 # Samsung TV
 log-ingestion.samsungacr.com
 #
-# Steam
+# Steam Games
 poweredbysteam.net
 steampowered.com
 steamcommunity.com
@@ -71,16 +60,6 @@ youtu.be
 yt3.ggpht.com
 ytimg.com
 googlevideo.com
-#
-# NetFlix
-netflix.com
-nflximg.net
-nflxext.com
-nflxvideo.net
-nflxso.net
-#
-# Hulu
-hulu.com
 #
 # Discord
 discordapp.com
