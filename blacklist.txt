@@ -44,9 +44,9 @@ tiktokcdn.com
 epicgames.com
 #
 # Discord
-discordapp.com
+#discordapp.com
 #discord.gg
-cdn.discordapp.com
+#cdn.discordapp.com
 #
 # twitch.tv
 ttvnw.net
