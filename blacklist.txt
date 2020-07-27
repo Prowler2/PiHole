@@ -45,7 +45,7 @@ epicgames.com
 #
 # Discord
 discordapp.com
-discord.gg
+#discord.gg
 cdn.discordapp.com
 #
 # twitch.tv
